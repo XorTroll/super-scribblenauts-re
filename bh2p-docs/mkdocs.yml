@@ -1,0 +1,21 @@
+site_name: Super Scribblenauts (EU) documentation
+site_description: Super Scribblenauts (EU) reverse-enginnering, documented here
+site_author: XorTroll
+site_url: https://xortroll.github.io/super-scribblenauts-re/
+
+repo_name: super-scribblenauts-re
+repo_url: https://github.com/XorTroll/super-scribblenauts-re
+
+nav:
+  - Home: index.md
+  - Languages: lang.md
+  - Filesystem: fs.md
+  - File formats:
+    - Text list file: files/text-list.md
+    - Font file: files/font.md
+    - Input (object/adjective) dictionary files: files/input-dictionary.md
+
+theme:
+  name: material
+  logo: assets/favicon.ico
+  favicon: assets/favicon.ico

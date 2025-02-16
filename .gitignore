@@ -1,0 +1,14 @@
+.vscode/
+dev/
+build/
+lib/
+backup/
+gen-fs/
+asmhacks/re-export/
+build-gen/
+*.bin
+*.elf
+*.nds
+*.sav
+out/
+site/
