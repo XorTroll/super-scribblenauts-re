@@ -10,5 +10,6 @@ build-gen/
 *.elf
 *.nds
 *.sav
+env-vars.sh
 out/
 site/

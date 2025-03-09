@@ -2,26 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://xortroll.github.io/super-scribblenauts-re/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-03-09</lastmod>
     </url>
     <url>
          <loc>https://xortroll.github.io/super-scribblenauts-re/fs/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-03-09</lastmod>
     </url>
     <url>
          <loc>https://xortroll.github.io/super-scribblenauts-re/lang/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <lastmod>2025-03-09</lastmod>
     </url>
     <url>
-         <loc>https://xortroll.github.io/super-scribblenauts-re/files/font/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/game/font/</loc>
+         <lastmod>2025-03-09</lastmod>
     </url>
     <url>
-         <loc>https://xortroll.github.io/super-scribblenauts-re/files/input-dictionary/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/game/gui/</loc>
+         <lastmod>2025-03-09</lastmod>
     </url>
     <url>
-         <loc>https://xortroll.github.io/super-scribblenauts-re/files/text-list/</loc>
-         <lastmod>2025-02-16</lastmod>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/game/sprite/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/game/text-list/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/adjective/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/animation/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/attack/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/dictionary/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/object/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/objnaut/</loc>
+         <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://xortroll.github.io/super-scribblenauts-re/objnaut/texture/</loc>
+         <lastmod>2025-03-09</lastmod>
     </url>
 </urlset>

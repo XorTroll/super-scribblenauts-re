@@ -10,10 +10,21 @@ nav:
   - Home: index.md
   - Languages: lang.md
   - Filesystem: fs.md
-  - File formats:
-    - Text list file: files/text-list.md
-    - Font file: files/font.md
-    - Input (object/adjective) dictionary files: files/input-dictionary.md
+  - Game file formats:
+    - Text list file: game/text-list.md
+    - Font file: game/font.md
+    - Sprite files: game/sprite.md
+    - GUI files: game/gui.md
+  - Objectnaut:
+    - Objectnaut: objnaut/objnaut.md
+    - Dictionary files: objnaut/dictionary.md
+    - Object files: objnaut/object.md
+    - Object texture files: objnaut/texture.md
+    - Adjective files: objnaut/adjective.md
+    - Animation files: objnaut/animation.md
+    - Attack files: objnaut/attack.md
+  - Objects:
+    - Object list (en): objgen-en/index.html
 
 theme:
   name: material

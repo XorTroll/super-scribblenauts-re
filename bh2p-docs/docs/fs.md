@@ -2,7 +2,7 @@
 
 ## Game files
 
-These are all the files present in the game's Nitro FS:
+These are all the files present in Super Scribblenauts's Nitro FS:
 
 - `dwc/utility.bin`: DWC utility data file, present in any DS games using Download Play
 
@@ -12,13 +12,15 @@ These are all the files present in the game's Nitro FS:
 
     > Note: for quite a lot of DS games, these kind of intermediate-build files are mistakengly left in the Nitro FS
 
-- `1i` and `1p`: these files contain everything else in the game, in a custom filesystem format explained below
+- `1i` and `1p`: these files contain everything else in the game, in a custom filesystem format explained below.
 
 ## Filesystem format
 
-The files `1i` and `1p` together contain a filesystem, in a unique format used by this game (even the original Scribblenauts did it differently, storing files plainly in the Nitro FS).
+The files `1i` and `1p` (known as *index* and *package* files) together contain a filesystem, in a unique format used by this game (even the original Scribblenauts did it differently, storing files plainly in the Nitro FS).
 
-There is a total of `33383` files in the release game. Files contain no names, they are referred to by their index (file `0`, file `1` ... up to file `33382`). There are only a few files where the file indices are hardcoded in-game, while various other formats internally contain other sub-file indices for other content.
+> Note: [Scribblenauts Remix](https://scribblenauts.fandom.com/wiki/Scribblenauts_Remix) shares the exact same filesystem format, where the index and package files are the two OBB files found in the game data.
+
+There is a total of `33383` files in the release game. Files contain no names, they are referred to by their index (file `0`, file `1` ... up to file `33382`), internally known as their **file ID**. There are several files where their file IDs are hardcoded in-game, while various other formats internally contain other sub-file IDs for further content.
 
 The file `1i` contains all the file offsets. It has the following binary format:
 

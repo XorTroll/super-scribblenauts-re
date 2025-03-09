@@ -1,0 +1,3 @@
+constexpr char IndexHtml[] = R"(@index_html@)";
+constexpr char SearchJs[] = R"(@search_js@)";
+constexpr char ObjectHtml[] = R"(@obj_html@)";
